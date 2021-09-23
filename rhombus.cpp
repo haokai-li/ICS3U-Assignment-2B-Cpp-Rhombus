@@ -17,7 +17,7 @@ int main() {
     float perimeter;
 
     // input
-    std::cout << "Enter the side of the rhombus(cm): ";
+    std::cout << "Enter the sides of the rhombus(cm): ";
     std::cin >> sides;
     std::cout << "Enter the diagonal of the rhombus(cm): ";
     std::cin >> diagonal;
